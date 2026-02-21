@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherAppAPI</string>
+    <string name="search_for_a_city">Search for a city</string>
+    <string name="loading">Loading...</string>
+    <string name="error">Error</string>
+
+</resources>
